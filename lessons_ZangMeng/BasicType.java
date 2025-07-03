@@ -41,7 +41,8 @@ public class BasicType {
         /* space:32 '.':46 '0':48 'A':65 'a':97 */
         //char c='我';
 
-        //printASCII();
+        printASCII();
+		printUnicode();
 
 
         char c1=32;
