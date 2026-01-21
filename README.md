@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FirstRepo
-=======
 ### 类型
 1. 整数默认int,小数默认double
 1. 如果要表示long，数字后面带上L；如果要表示float，数字后面带上f
@@ -18,4 +15,3 @@
 ### 字符编码
 - 一个字节表示ASCII，两个字节表示Unicode
 - 8位二进制能表示ASCII，16位二进制能表示Unicode
->>>>>>> dca0296 (update README.md.)
