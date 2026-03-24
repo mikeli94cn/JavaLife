@@ -6,5 +6,6 @@ class TestClass{
 		s1.add("a");
 		//boolean rs=s1.remove("a");
 		System.out.println(s1.remove("a"));
+		
 	}
 }
