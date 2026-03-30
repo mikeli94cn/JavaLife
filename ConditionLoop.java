@@ -9,5 +9,7 @@ class ConditionLoop {
       mood = "bad";
     }
     System.out.printf("today is %s,mood is %s\n", today, mood);
+    
+       
   }
 }

@@ -1,9 +1,7 @@
 class KeyWordAndIdentifier{
 	public static void main(String[] args){
 		//变量
-		变量：声明、赋值
 
-		数组：声明、创建、初始化
 
 		int a=5;
 		int b=3;
