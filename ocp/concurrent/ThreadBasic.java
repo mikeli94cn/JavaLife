@@ -34,3 +34,17 @@
  * method 2: implement Runnable (recommended)
  * method 3: Lambda (modern java)
  * */
+
+/*
+ * 4. thread lifecycle
+ * NEW -> RUNNABLE -> RUNNING -> BLOCKED/WAITING -> TERMINATED
+ *
+ * states in java
+ * NEW : created
+ * RUNNABLE : ready to run
+ * BLOCKED : waiting for lock
+ * WAITING : waiting indefinitely
+ * TIMED_WAITING : waiting with timeout
+ * TERMINATED: finished
+ *
+ * */
