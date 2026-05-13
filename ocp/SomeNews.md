@@ -1,3 +1,6 @@
+Announcing Oracle Certified Professional Java SE 21 Developer Exam and Java SE 21 Programming Complete Course
+https://blogs.oracle.com/oracleuniversity/announcing-oracle-certified-professional-java-se-21-developer-exam-and-java-se-21-programming-complete-course
+
 CodeRanch
 https://coderanch.com › certification › passed-Java-SE-h...
 Feb 1, 2025 — I passed Java SE 21 Certification exam with 72% score which is my lowest among all my 5 Java Certifications and here is my thoughts and experience.Read more
@@ -19,3 +22,5 @@ I'm an experienced java dev I'm planning to take certification but I'm confused 
 Top answer: 
 I might get flamed for this, but yes I think certificates are worth it. I'm a senior dev
 https://www.reddit.com/r/learnjava/comments/1plp0b5/is_oracle_java_professional_certification_worth_it/
+
+
