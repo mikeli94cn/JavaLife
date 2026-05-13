@@ -1,4 +1,11 @@
 Announcing Oracle Certified Professional Java SE 21 Developer Exam and Java SE 21 Programming Complete Course
+- Demonstrate proficiency with core Java concepts such as object-oriented and functional programming with classes, interfaces, records, and lambda expressions
+- Use inheritance, encapsulation, polymorphism, and generics
+- Handle date, time, text, numeric and Boolean values
+- Control program flow and handle exceptions
+- Work with core Java APIs such as Streams, Arrays, and Collections, Concurrency and Parallelism, I/O and Localization
+- Utilize Java Modules, package, and deploy Java Code
+
 https://blogs.oracle.com/oracleuniversity/announcing-oracle-certified-professional-java-se-21-developer-exam-and-java-se-21-programming-complete-course
 
 CodeRanch
